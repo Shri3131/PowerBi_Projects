@@ -1,1 +1,1 @@
-#Sales analysis of Amazing Mart EU region using PowerBi 
+Visual Analysis and Buisness intelligence Report using PowerBi 
